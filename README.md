@@ -1,1 +1,1 @@
-https://MaksimMEGA.github.io/rsschool-cv/cv
+https://MaksimMEGA.github.io/rsschool-cv/

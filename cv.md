@@ -5,7 +5,7 @@
 
 *Tel.:* +79821263979
 
-*E-mail:* maksimka199307@gmail.com
+*E-mail adress:* maksimka199307@gmail.com
 
 *Discord Name:* MEGA (@MaksimMEGA)
 ***
@@ -22,6 +22,7 @@ At the moment I work in the production of household appliances. I want to try my
 + CSS basics
 + VS Code, Atom
 + Git
++ PowerShell
 ***
 
 ## ***Code example***
